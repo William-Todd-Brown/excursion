@@ -1,20 +1,32 @@
 body {
   background-color: #000;
   font-family: Verdana;
+  text-align: center;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
-}
-
-p {
-  text-align: center;
 }
 
 a {
   font-size: 16px;
   color: #7fffd4;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+}
+
+.second-paragraph {
+  font-size: 21px;
+  color: #808080;
+}
+
+footer {
+  font-size: 25px;
+  text-align: right;
+  color: #808080;
 }
